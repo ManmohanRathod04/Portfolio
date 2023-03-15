@@ -60,7 +60,7 @@ new TypeIt("#type1", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Full-Stact", { delay: 600 })
+  .type("Frontend", { delay: 600 })
   .pause(500)
   .delete(10)
   .type("Developer")
